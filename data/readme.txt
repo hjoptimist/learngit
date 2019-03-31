@@ -5,4 +5,4 @@ D
 new line
 increase a new line
 
-ther is new word "hello"
+ther is a new word "hello"
